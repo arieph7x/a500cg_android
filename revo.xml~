@@ -477,5 +477,4 @@
   <project path="external/libvpx" name="gpdroid/revo_android_external_libvpx" groups="pdk" revision="cm-11.0" />
   <project path="hardware/broadcom/libbt" name="android-ia/platform_hardware_broadcom_libbt" groups="pdk" revision="release/android-4.4.2_r1-ia2" />
   <project path="hardware/broadcom/wlan" name="android-ia/platform_hardware_broadcom_wlan" groups="broadcom_wlan" revision="release/android-4.4.2_r1-ia2" />
-<project path="device/asus/a500cg" name="quanganh2627/android_device_asus_a500cg" revision="cm11" />
 </manifest>
